@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <title>Coding and Programming</title>
+  </head>
+
+  <body>
+    <div id = introduction>
+      <h1><center>Coding and Programming</center></h1>
+      <h2><center>Coding Knowledge</center></h2>
+    </div>
+
+    <div id = project description>
+      <h3><center> Methods and Processes to Code</center></h3>
+    </div>
+
+    <div id = Coding Graphics>
+      <center><img src= "http://www.idgconnect.com/IMG/253/9253/programming-oop-wallpaper-by-hexeno.png"  alt= "Coding and Programming"    height= "300" width = "300"></center>
+    </div>
+
+    <div id = Link to Search>
+      <a href="http://www.google.com">Search</a>
+    </div>
+
+    <div id = Links to Coding Course Websites>
+      <a href="http://www.codecademy.com/learn">Codecademy</a>
+      <a href="http://www.learnswift.tips">Learn Swift</a>
+      <a href="http://stanford.edu/~casawa/webdev.html">HTML and CSS</a>
+    </div>
+
+    <div id = Project Collaboration>
+        <a href="https://github.com/dmc-3imagine/Neptune0815">GitHub</a>
+        <a href="https://drive.google.com/drive/u/0/folders/0B5VaznhxmIjudmZPc1BZLW1MS1E">Google Docs</a>
+
+    </body>
+
+</html>
